@@ -67,6 +67,7 @@ Cuento con un background en **Psicología**, lo que me brinda una visión difere
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-%0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)
 
 ### Sistemas y Web
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
