@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-Software developer specializing in **Python automation, data analysis, and systems programming**, graduate of the **[42 Málaga Common Core](https://github.com/kerowam/42_Cursus) (Fundación Telefónica)**.
+Software developer specializing in **Python automation, data analysis, and systems programming**, with **[42 Málaga Common Core](https://github.com/kerowam/42_Cursus) (Fundación Telefónica)** completion certificate.
 
 I have a background in **Psychology**, which gives me a different perspective focused on user experience, process optimization, and educational technology (**EdTech**). I enjoy creating scripts that automate complex tasks and building robust software, from low-level operating-system programming to web architectures and infrastructure orchestration.
 
