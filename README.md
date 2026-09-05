@@ -17,14 +17,14 @@
 
 ## 🚀 Sobre Mí
 
-Desarrollador de software especializado en **automatización con Python, análisis de datos y programación de sistemas**, graduado del **[Common Core de 42 Málaga](https://github.com/kerowam/42_Cursus) (Fundación Telefónica)**. 
+Desarrollador de software especializado en **automatización con Python, análisis de datos y programación de sistemas**, con certificado de finalización del **[Common Core de 42 Málaga](https://github.com/kerowam/42_Cursus) (Fundación Telefónica)**. 
 
 Cuento con un background en **Psicología**, lo que me brinda una visión diferente orientada a la experiencia de usuario, optimización de procesos y tecnología educativa (**EdTech**). Disfruto creando scripts que automatizan tareas complejas y construyendo software robusto desde niveles cercanos al sistema operativo hasta arquitecturas Web y orquestación de infraestructuras.
 
 - 🔭 **Especialización:** Automatización de procesos, scripting en Python, análisis de datos y orquestación de sistemas.
 - 🎓 **Formación Destacada:** 42 Málaga Fundación Telefónica, Google IT Automation, Google Data Analytics y OpenAI Academy (Applied AI, Agents and Workflows).
 - 🌱 **Enfoque actual:** Profundizando en ciencia de datos e IA generativa aplicada.
-- 💡 **Intereses:** Tecnologías de la educación, gamificación del aprendizaje, arquitectura UNIX, desarrollo de herramientas internas y orientación profesional asistida por tecnología.
+- 💡 **Intereses:** Tecnologías de la educación, gamificación del aprendizaje y la enseñanza, arquitectura UNIX, desarrollo de herramientas internas y orientación profesional asistida por tecnología.
 
 ---
 
