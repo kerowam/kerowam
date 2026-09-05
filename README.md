@@ -7,17 +7,17 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanfredes/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:germanfredes1988@protonmail.com)
-  [![42 Málaga](https://img.shields.io/badge/gfredes---white?style=for-the-badge&logo=42&logoColor=black)](https://www.42malaga.com/)
+  [![42 Málaga](https://img.shields.io/badge/malaga-white?style=for-the-badge&logo=42&logoColor=black)](https://www.42malaga.com/)
   
    <a href="./README_en.md">English</a> · <b>Español</b>
-   
+
 </div>
 
 ---
 
 ## 🚀 Sobre Mí
 
-Desarrollador de software especializado en **automatización con Python, análisis de datos y programación de sistemas**, graduado del **Common Core de 42 Málaga (Fundación Telefónica)**. 
+Desarrollador de software especializado en **automatización con Python, análisis de datos y programación de sistemas**, graduado del **[Common Core de 42 Málaga](https://github.com/kerowam/42_Cursus) (Fundación Telefónica)**. 
 
 Cuento con un background en **Psicología**, lo que me brinda una visión diferente orientada a la experiencia de usuario, optimización de procesos y tecnología educativa (**EdTech**). Disfruto creando scripts que automatizan tareas complejas y construyendo software robusto desde niveles cercanos al sistema operativo hasta arquitecturas Web y orquestación de infraestructuras.
 
